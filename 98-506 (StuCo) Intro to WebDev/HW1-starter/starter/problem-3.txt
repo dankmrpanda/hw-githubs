@@ -1,0 +1,5 @@
+1. There is a div that says: <div class="suspicious">I shouldn't be here...</div>
+2. 6
+3. On the last question, the code block does not have the class="blockcode", so there is no codeblock around the code.
+4. nothing.png
+5. sum.png took ~800ms to load in, which is a lot longer than the other images, which on average took <50ms. This is due to the image's large size, which is around 13,202 kb

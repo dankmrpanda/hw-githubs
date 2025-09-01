@@ -1,0 +1,13 @@
+<div>--class: "button-container"
+  |
+  |--<button>--type: "button"
+  |      |--"Like"
+  |
+  |--<button>--type: "button"
+  |      |--"Dislike"
+  |
+  |--<button>--type: "button"
+  |      |--"Share"
+  |
+  |--<button>--type: "button"
+         |--"Repost"

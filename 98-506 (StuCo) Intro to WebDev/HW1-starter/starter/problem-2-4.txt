@@ -1,0 +1,11 @@
+<div>--class: "card"
+  |
+  |--<img>--src: "product.png"
+  |       |-alt: "An image of the product"
+  |
+  |--<div>
+       |
+       |--<h2>
+       |    |--"Product Name"
+       |--<button>--type: "button" 
+            |--"View"
