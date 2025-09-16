@@ -1,0 +1,50 @@
+ /* Write your CSS in this file! */
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: red; 
+}
+
+.ideas {
+    padding: 1rem;
+    border-width: thin;
+    border-color: grey;
+    border-style: solid;
+}
+
+h2 {
+    font-weight: bold;
+    text-decoration: underline;
+    text-decoration-color: red; 
+}
+
+.header {
+    padding: 1em;
+    font-size: large;
+}
+
+#contain {
+    overflow: hidden;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 0.5em;
+}
+
+.split {
+    flex:1;
+    box-sizing: border-box;
+    margin: 0.5em;
+    border-width: thin;
+    border-color: grey;
+    border-style: solid;
+    padding: 1em;
+    height: auto;
+}
+
+img {
+    width: auto;
+    height: 150px;
+}
